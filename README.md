@@ -5,6 +5,6 @@ Unity tutorial
 1. Open Unity
 2. click `On Disk` and `open`
 3. Select Project Folder ex)space-shooter
-4. After loading unity project, click `File`->`Open Scene` and select `_Scenes`->`... .scene`
+4. After loading unity project, click `File`->`Open Scene` and select `_Scenes`->`... .unity`
 
 # Build
